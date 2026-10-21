@@ -134,7 +134,7 @@ export default function Home() {
 
               <div className="overflow-hidden rounded-[1.5rem] border border-white/10 bg-[#102137]">
                 <img
-                  src="/images/ali-Image.jpeg"
+                  src="/Image.jpeg"
                   alt="Ali Nasir Warraich"
                   className="aspect-[4/5] w-full object-cover"
                 />
