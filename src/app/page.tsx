@@ -14,7 +14,7 @@ const projects = [
     description:
       "Another look at my EGO project, demonstrating my initiative to explore and build digital experiences.",
     category: "DIGITAL EXPERIENCE",
-    url: "https://ego-9ava.vercel.app/",
+    url: "https://musaaaa-three.vercel.app/",
   },
   {
     number: "03",
